@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>add_new_icon.png</file>
+        <file>board2.png</file>
+        <file>circle_icon1.png</file>
+        <file>clear_icon.png</file>
+        <file>delete_icon.png</file>
+        <file>eraser_icon.png</file>
+        <file>group_icon.png</file>
+        <file>insert_image_icon.png</file>
+        <file>line_icon.png</file>
+        <file>open.png</file>
+        <file>page-icon.png</file>
+        <file>pen_icon.png</file>
+        <file>pick_tool_icon.png</file>
+        <file>rectangle_icon.png</file>
+        <file>save.png</file>
+        <file>splashScreen.png</file>
+        <file>ungroup_icon.png</file>
+    </qresource>
+</RCC>
